@@ -100,6 +100,10 @@ Every order gets a unique ID for easy lookup later.
 You can add images like this once you have screenshots:
 
 ```markdown
+<img width="1910" height="802" alt="image" src="https://github.com/user-attachments/assets/5890160b-d62a-447b-b23f-4ef9cff6ad86" />
 
-![Homepage Screenshot](./screenshots/homepage.png)
-![Cart Page](./screenshots/cart.png)
+<img width="1918" height="784" alt="image" src="https://github.com/user-attachments/assets/148ca7f3-bb94-4324-ba1e-c36edb07c151" />
+
+<img width="1918" height="608" alt="image" src="https://github.com/user-attachments/assets/13c81715-5370-44fb-8175-8f46b5b6cb5a" />
+
+<img width="1917" height="771" alt="image" src="https://github.com/user-attachments/assets/cf477c2d-631e-4c97-9a8d-9035b475bf96" />
